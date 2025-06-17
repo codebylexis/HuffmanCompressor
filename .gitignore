@@ -1,0 +1,7 @@
+# Ignore compiled output
+bin/
+*.class
+
+# Ignore generated files
+*.huff
+recovered.txt
